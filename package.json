@@ -1,16 +1,12 @@
 {
   "name": "hello-http-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hello HTTP-Server",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
   "scripts": {
-    "test": "mocha test --exit",
     "start": "node index.js"
   },
-  "author": "",
+  "author": "Christian",
   "license": "ISC",
   "devDependencies": {
     "axios": "^0.16.2",
